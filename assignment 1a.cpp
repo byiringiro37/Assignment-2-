@@ -46,8 +46,11 @@ using namespace std;
 	   
 	   if(sumd==sumc && sumc==sumr) {
 	   
-	      cout<<"the matrix is a square matrix kbs"<<endl;
+	      cout<<"the matrix is a square matrix"<<endl;
    }
+	    else {
+       	cout<<"the matrix is not a square matrix"<<endl;
+	   }
 
 
    
